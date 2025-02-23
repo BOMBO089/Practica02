@@ -1,0 +1,18 @@
+COMANDOS UTILIZADOS EN LA PRACTICA:
+
+- *ls* → Lista los archivos y carpetas en el directorio actual.  
+- *ls -1* → Muestra los archivos y carpetas en una sola columna.  
+- *ls /* → Lista los archivos y carpetas dentro del directorio raíz (/).  
+- *ls /home* → Muestra el contenido de la carpeta /home, donde suelen estar las carpetas de los usuarios.  
+- *ls -1 /home* → Lista los archivos y carpetas dentro de /home, en una sola columna.  
+- *man ls* → Muestra el manual del comando ls, explicando sus opciones y uso.  
+- *ls /urs* → Probablemente sea un error tipográfico, lo correcto sería ls /usr, que lista los archivos de la carpeta /usr, donde están programas y librerías del sistema.  
+- *touch* → Crea un archivo vacío o actualiza la fecha de modificación de un archivo si ya existe.  
+- *mkdir* → Crea una nueva carpeta (directorio).  
+- *cd* → Cambia de directorio (te mueve entre carpetas).  
+- *pwd* → Muestra la ruta del directorio en el que estás actualmente.  
+- *find* → Busca archivos y carpetas en el sistema según criterios como nombre o tipo.  
+- *clear* → Limpia la pantalla de la terminal.  
+- *cp* → Copia archivos o carpetas de un lugar a otro.  
+- *mv* → Mueve archivos o carpetas, también se usa para renombrarlos.  
+- *rm* → Elimina archivos o carpetas (con rm -r puedes borrar directorios completos).
